@@ -1,2 +1,3 @@
-# python-basics
+# Python Fundamentals
+
 Python Exercises
