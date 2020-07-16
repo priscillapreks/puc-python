@@ -1,6 +1,6 @@
 """
 Inteligência Artificial Aplicada (PUC/PR)
-Disciplina: Raciocício Algorítmico
+Disciplina: Raciocínio Algorítmico
 Priscilla Bomfim Domingues
 """
 
